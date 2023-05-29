@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - Goal
+  - Key
+  - Door
   layers:
   - Default
   - TransparentFX
